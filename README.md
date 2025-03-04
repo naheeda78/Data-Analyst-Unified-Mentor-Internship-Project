@@ -43,7 +43,9 @@ Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internshi
 
 Tools Used: SQL, Power BI
 
-## Overview: Performed sales analysis on a pizza store dataset to identify sales performance and customer preferences.
+## Overview: 
+
+Performed sales analysis on a pizza store dataset to identify sales performance and customer preferences.
 
 ## Key Insights:
 
