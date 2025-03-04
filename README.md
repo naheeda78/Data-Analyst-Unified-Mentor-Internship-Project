@@ -39,7 +39,7 @@ Explored Netflix dataset to analyze content trends.
 
 Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internship-Project/blob/main/Netflix-EDA.ipynb
 
-3. # Pizza Sales Analysis using SQL & Power BI
+3. # Pizza Sales Analysis using SQL & Power BI 🍕
 
 Tools Used: SQL, Power BI
 
@@ -60,7 +60,7 @@ Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internshi
 
 If you have any questions or feedback, feel free to reach out:
 
-Email: parveennaheeda733@gmail.com
+Email: parveennaheeda733@gmail.com 📩
 
 LinkedIn: https://www.linkedin.com/in/naheeda-parveen-342402267/
 
