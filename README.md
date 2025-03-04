@@ -8,7 +8,9 @@ Welcome to my Data Analysis projects repository! This repository showcases my ha
 
 Tools Used: Exce; , Power BI
 
-## Overview: Analyzed HR attrition data to understand employee turnover trends.
+## Overview: 
+
+Analyzed HR attrition data to understand employee turnover trends.
 
 ## Key Insights:
 
