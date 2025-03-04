@@ -1,6 +1,6 @@
-# Data Analysis Projects - Unified Mentor Internship
+# Data Analysis Projects - Unified Mentor Internship 📊
 
-Welcome to my Data Analysis projects repository! This repository showcases my hands-on projects during my internship at Unified Mentor, where I applied various data analysis techniques using SQL, Power BI, and Python. 📊📈
+Welcome to my Data Analysis projects repository! This repository showcases my hands-on projects during my internship at Unified Mentor, where I applied various data analysis techniques using SQL, Power BI, and Python. 
 
 # Projects
 
