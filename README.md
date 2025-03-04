@@ -36,7 +36,7 @@ Trends in content production over time.
 
 Relationship between ratings and content type.
 
-Project Link: Netflix Data Analysis
+Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internship-Project/blob/main/Netflix-EDA.ipynb
 
 3. Pizza Sales Analysis using SQL & Power BI
 
