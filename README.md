@@ -26,9 +26,9 @@ Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internshi
 
 Tools Used: Python (Pandas, Matplotlib, Seaborn)
 
-Overview: Explored Netflix dataset to analyze content trends.
+## Overview: Explored Netflix dataset to analyze content trends.
 
-# Key Insights:
+## Key Insights:
 
 Distribution of content by genre and country.
 
