@@ -39,33 +39,24 @@ Explored Netflix dataset to analyze content trends.
 
 Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internship-Project/blob/main/Netflix-EDA.ipynb
 
-3. Pizza Sales Analysis using SQL & Power BI
+3. # Pizza Sales Analysis using SQL & Power BI
 
 Tools Used: SQL, Power BI
 
-Overview: Performed sales analysis on a pizza store dataset to identify sales performance and customer preferences.
+## Overview: Performed sales analysis on a pizza store dataset to identify sales performance and customer preferences.
 
-Key Insights:
+## Key Insights:
 
-Best-selling pizza types and revenue contributors.
+- Best-selling pizza types and revenue contributors.
 
-Peak sales periods and order trends.
+- Peak sales periods and order trends.
 
-Data-driven recommendations for business growth.
+- Data-driven recommendations for business growth.
 
-Project Link: Pizza Sales Dashboard
+Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internship-Project/blob/main/pizza%20sales.pdf
 
-How to Use This Repository
 
-Clone the repository:
-
-git clone https://github.com/yourusername/unified-mentor-data-analysis.git
-
-Navigate to the project directory of interest.
-
-Follow the project-specific instructions to run the analysis.
-
-Contact
+## Contact
 
 If you have any questions or feedback, feel free to reach out:
 
