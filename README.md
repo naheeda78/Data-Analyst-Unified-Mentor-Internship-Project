@@ -4,7 +4,7 @@ Welcome to my Data Analysis projects repository! This repository showcases my ha
 
 # Projects
 
-1. #HR Attrition Analysis
+1. # HR Attrition Analysis
 
 Tools Used: Exce; , Power BI
 
