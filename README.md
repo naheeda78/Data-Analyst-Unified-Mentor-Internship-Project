@@ -22,13 +22,13 @@ Analyzed HR attrition data to understand employee turnover trends.
 
 Project Link: https://github.com/naheeda78/Data-Analyst-Unified-Mentor-Internship-Project/blob/main/Dashboard.png
 
-2. Netflix Data Analysis using Python
+2. # Netflix Data Analysis using Python
 
 Tools Used: Python (Pandas, Matplotlib, Seaborn)
 
 Overview: Explored Netflix dataset to analyze content trends.
 
-Key Insights:
+# Key Insights:
 
 Distribution of content by genre and country.
 
